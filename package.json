@@ -5,7 +5,7 @@
   "repository": "https://github.com/timlevett/timlevett.github.io",
   "author": "Tim Levett <tim.levett@gmail.com>",
   "dependencies": {
-    "angular-gravatar": "~0.3.1",
+    "angular-gravatar": "~0.4.2",
     "angular-marked": "^1.0.1",
     "angular-ui-router": "^0.2.15",
     "angulartics": "^0.20.2",
