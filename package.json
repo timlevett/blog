@@ -7,7 +7,7 @@
   "dependencies": {
     "angular-gravatar": "~0.3.1",
     "angular-marked": "^1.0.1",
-    "angular-ui-router": "^0.2.15",
+    "angular-ui-router": "^1.0.29",
     "angulartics": "^0.20.2",
     "angulartics-google-analytics": "^0.1.2"
   }
